@@ -19,7 +19,7 @@ Draw how your **Frame** is represented. This could be a gavel, scales, a documen
 
 ### Take a breath
 
-Once you are done creating, answering questions, and drawing your **Frame,** close your eyes and take a deep breath. This is the point that signifies the start of roleplaying as your **Frame** of Government. From now on, when the game refers to "you", you will respond as the **Frame** of Government. Clear your head and organize your thoughts. 
+Once you are done creating, answering questions, and drawing your **Frame,** close your eyes and take a deep breath. You will now be roleplaying as your created **Frame** of Government. From now on, when the game refers to "you", you will respond as the **Frame** of Government. Clear your head and organize your thoughts. 
 
 ### Choose Your First Body
 
