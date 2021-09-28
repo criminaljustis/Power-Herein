@@ -4,13 +4,11 @@ description: A Necessary Evil
 
 # Game Structure
 
-## GAME STRUCTURE <a id="docs-internal-guid-283fe8a2-7fff-f24b-18ab-429fe6febedb"></a>
-
-### Acts
+## Acts
 
 An Act is a collection of **Bodies** and **Rests** with a connecting theme. You will play through three Acts over the course of the game, choosing a fixed number of **Bodies** from an Act, resolving the prompts, and moving on.
 
-#### Resolving an Body
+### Resolving an Body
 
 After selecting a **Body**, you will complete a series of prompts to tell their story and explore the existence and development of the **Frame**. You can use these prompts to tell a detailed story, or summarize the existence of your **Frame**.  
 
@@ -27,7 +25,7 @@ Please complete the following steps to resolve a **Body**:
 
 You are also encouraged to write a few lines describing these events.
 
-#### Resolving a Rest
+### Resolving a Rest
 
 After resolving a **Body**, players complete the following steps to resolve a **Rest**:
 
@@ -37,7 +35,7 @@ After resolving a **Body**, players complete the following steps to resolve a **
 4. If players have met the requirement to move on to a new Act \(such as having resolved two **Bodies** from the current Act\), do so.
 5. Then, begin either select a new **Body** or move on to the next Act, as appropriate.
 
-#### Breaks
+### Breaks
 
 At this point stop to think about taking a break. If you write a lot of detail of a **Body**, it may be best to play over several sessions instead of one long marathon.
 
