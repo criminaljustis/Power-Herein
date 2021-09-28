@@ -1,12 +1,12 @@
 ---
-description: A Lost & Found Solo Journal Game
+description: A Lost & Found Solo Journaling Game
 ---
 
 # Overview
 
 ## The Preamble
 
-Power Herein is a Solo Journal Game where you play as a document or institution of government and adapt with the changing politics of the time. You will be created to provide political structure to a body of people and be utilized by them in some way to govern or rule. You will be amended, grow, adapt, and be used by the people in the current power structures to enact their will on others. This game is scoped for a national government but may be adjusted to fit smaller sizes. 
+Power Herein is a Solo Journaling Game where you play as a document or institution of government and adapt with the changing politics of the time. You will be created to provide political structure to a body of people and be utilized by them in some way to govern or rule. You will be amended, grow, adapt, and be used by the people in the current power structures to enact their will on others. This game is scoped for a national government but may be adjusted to fit smaller sizes. 
 
 ### Current Status
 
