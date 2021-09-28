@@ -8,4 +8,5 @@
 * [Game Concepts](the-game/game-concepts.md)
 * [Game Structure](the-game/game-structure.md)
 * [Starting Play](the-game/starting-play.md)
+* [Ending the Game](the-game/ending-the-game.md)
 
