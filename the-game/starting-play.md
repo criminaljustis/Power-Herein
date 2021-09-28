@@ -1,11 +1,5 @@
 # Starting Play
 
-There are three main steps to complete to Power Herein are:
-
-1. Choose a **Frame** Playbook.
-2. Create the **Frame**.
-3. Take a breath.
-
 ### Choose a Frame Playbook
 
 You must select one **Frame** Playbook. The **Frames** of Government are an archetype of governing documents or institutions. They are shaped and changed by the thoughts and desires of the common people, those in power, and other entities with political will. They have principles that align or not with their **Political Bodies** that will rise and fall in power during their existence.
