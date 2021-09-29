@@ -10,6 +10,10 @@ An Act is a collection of **Bodies** and **Rests** with a connecting theme. You 
 
 ### Resolving an Body
 
+{% hint style="info" %}
+Author's Note: This section needs a Unity of Effect pass on my end.
+{% endhint %}
+
 After selecting a **Body**, you will complete a series of prompts to tell their story and explore the existence and development of the **Frame**. You can use these prompts to tell a detailed story, or summarize the existence of your **Frame**.  
 
 

@@ -1,3 +1,7 @@
+---
+description: Act 1
+---
+
 # Founding a Dream
 
 ## Bodies
@@ -13,6 +17,60 @@ Choose a **Body** from below and resolve them following the process in [Game Str
 6. Optionally answer one of the **Frame** questions on the Playbook.
 7. Consider how the **Body** loses or relinquishes power over the **Frame**.
 {% endhint %}
+
+### The Nobel General
+
+Details about this 
+
+* questions
+* question 2
+
+### The Unheard Voices
+
+Details about this
+
+* question 1
+* question 2
+
+### The Drunken Diplomat
+
+Details about this
+
+* question 1
+* question 2
+
+### The Children of Revolution
+
+Details about this
+
+* question 1
+* question 2
+
+## Time
+
+Choose the amount of **Time** you must wait until the next **Body** is in power. Follow the instructions of the your chosen option. 
+
+As you **Rest** think about the way power is used to govern the masses.
+
+### No Time at All
+
+Proceed and Don't stop
+
+### A meeting
+
+**Rest** for 10 seconds
+
+### A Conference
+
+**Rest** for 20 seconds
+
+### An Assembly
+
+**Rest** for 40 seconds
+
+## Assembling the Next Body
+
+Once you have finished your **Rest** choose a new **Body.** If you have already chosen two **Bodies** from this act, move on to the Next Act and chose a **Body** from there. Otherwise, keep choosing **Bodies** from the Current Act. 
 
 
 
