@@ -78,5 +78,5 @@ Choose once on **Changes & Events and** **Burnt & Frayed**
 
 ## Assembling the Next Body
 
-Once you have finished your **Rest** choose a new **Body.** If you have already chosen two **Bodies** from this act, move on to the Next Act and chose a **Body** from there. Otherwise, keep choosing **Bodies** from the Current Act. 
+Once you have finished your **Rest** choose a new **Body.** If you have already chosen two **Bodies** from this act, the game is finished.
 
