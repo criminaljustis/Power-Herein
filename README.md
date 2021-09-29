@@ -14,7 +14,7 @@ This game is under active development.
 
 ### Info and Attributions
 
-This game is a solo journal game for the[ Lost & Found Game Jam ](https://itch.io/jam/lost-and-found)on itch. This game utilizes the [Lost & Found SRD](https://srd.mousehole.press/) written by Jack Harrison. Referenced September 2021. This Game is currently under the [CC 4.0 license](https://creativecommons.org/licenses/by/4.0/). 
+This game is a solo journal game for the[ Lost & Found Game Jam ](https://itch.io/jam/lost-and-found)on itch. This game is a hack based on the [Lost & Found SRD](https://srd.mousehole.press/) written by Jack Harrison. This Game is currently under the [CC 4.0 license](https://creativecommons.org/licenses/by/4.0/). 
 
 Thanks to Chris for saying "DO IT" and Jake for being a dorkus. Also shout out to the soundtrack to art of rally. 
 
