@@ -7,7 +7,7 @@ You must select one **Frame** Playbook. The **Frames** of Government are an arch
 The Available **Frames** are:
 
 **The Supreme Law**  
-a Fundamental Law: a living document of governance.
+a Fundamental Rule: a living document of governance.
 
 ### Create the **Frame**
 
@@ -15,7 +15,7 @@ The **Frame** is generic. There are many ways to utilize the same **Frame** for 
 
 After choosing your frame, answer the opening questions about your **Frame's** creation. Describe the people who founded the **Frame** and add three **Ideals** to describe it's starting foundation.
 
-Draw how your **Frame** is represented. This could be a gavel, scales, a document, or some other object. Make this large enough to adjust as the **Frame** is changed. Your drawing to be a visual reference and may not reflect the ideal you have in your head. That's okay. 
+Draw how your **Frame** is represented. This could be a gavel, scales, a document, or some other object. Make this large enough to adjust as the **Frame** is changed. Your drawing is to be a visual reference and may not be accurate to the vision you have in your head. That's okay. 
 
 ### Take a breath
 

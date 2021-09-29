@@ -17,7 +17,7 @@ This game is intended to be played solo. The themes explored with this work incl
 
 ### Content Warning
 
-This game references alcohol, political violence, war, and natural disasters. Any game that deals with the founding of the United States, or many countries, must mention slavery and/or colonialism or do a great disservice to those harmed. These ideas and concepts are evil. You may use or ignore these items as you see fit in your play. 
+This game references alcohol, political violence, war, and natural disasters. Any game that deals with the founding of the United States, or many countries, may include slavery and/or colonialism. These ideas and concepts are evil. You may use or ignore these items as you see fit in your play. 
 
 If the game leaves you feeling politically motivated please start with your local movements.
 
