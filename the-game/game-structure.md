@@ -19,8 +19,8 @@ Please complete the following steps to resolve a **Body**:
 2. Describe the **Body**, providing a name \(if appropriate\) and a few details.
 3. Consider how they came to power over the **Frame**.
 4. Answer the two **Body** questions.
-5. Choose a prompt from a Table to define the **Body**'s time with the **Frame**.
-6. Optionally answer one of the **Frame** questions on the Playbook.
+5. Choose a prompt from either Power & Prosperity or Necessary & Negligent to define the **Body**'s time with the **Frame**.
+6. Optionally answer one of the **Frame** questions in the Playbook.
 7. Consider how the **Body** loses or relinquishes power over the **Frame**.
 
 You are also encouraged to write a few lines describing these events.
@@ -31,7 +31,7 @@ After resolving a **Body**, players complete the following steps to resolve a **
 
 1. Choose how much time to **Rest** from those available in the current Act.
 2. Wait in silence, or with music, for the assigned time.
-3. Choose prompt\(s\) from a Table to show the effects of time passing.
+3. Choose prompt\(s\) from either Changes & Events or Burnt & Frayed to show the effects of time passing.
 4. If players have met the requirement to move on to a new Act \(such as having resolved two **Bodies** from the current Act\), do so.
 5. Then, begin either select a new **Body** or move on to the next Act, as appropriate.
 
